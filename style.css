@@ -3,3 +3,8 @@
   bottom: 0;
   width: 100%;
 }
+
+button {
+  background-color: white;
+  font-size: 18px;
+}
